@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "html-react-parser": "^5.1.4",
+    "typescript": "^5.3.3"
+  }
+}
