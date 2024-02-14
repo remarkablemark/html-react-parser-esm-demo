@@ -16,6 +16,6 @@ let processingInstruction: ProcessingInstruction;
 let text: Text;
 
 const output = parse('');
-attributesToProps();
-domToReact([]);
-htmlToDOM('');
+const props = attributesToProps();
+const reactElements = domToReact([]);
+const domNodes = htmlToDOM('');
